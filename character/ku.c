@@ -1,12 +1,12 @@
 /************************************************
- * Title:		ku			*
- * Creator:		John J. Coleman		*
- * Creation Date:	2026.04.20		*
- * Modified Date:	2026.04.20		*
- * 						*
- * Description:					*
- * Read from and write to char device.		*
- *						*
+ * Title:		ku								*
+ * Creator:		John J. Coleman					*
+ * Creation Date:	2026.04.20					*
+ * Modified Date:	2026.04.20					*
+ * 												*
+ * Description:									*
+ * Read from and write to char device.			*
+ *												*
  ************************************************/
 
 #include <linux/module.h>
